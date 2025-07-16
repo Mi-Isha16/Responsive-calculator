@@ -19,9 +19,7 @@ A responsive, mobile-friendly calculator built entirely in a single HTML file us
 responsive-calculator/
 └── responsivecalc.html
 
-yaml
-Copy
-Edit
+
 
 > 💡 All logic (JavaScript) and styling (CSS) are written within `responsivecalc.html` using `<script>` and `<style>` tags respectively.
 
@@ -30,7 +28,7 @@ Edit
 ## 🛠 Technologies Used
 
 - HTML5
-- CSS3 (internal using `<style>`)
+- CSS (internal using `<style>`)
 - JavaScript (internal using `<script>`)
 
 ---
